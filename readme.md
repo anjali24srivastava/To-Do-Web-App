@@ -2,7 +2,6 @@
 
 A simple, clean, and fully responsive **To-Do List Web Application** built with **HTML**, **CSS**, and **JavaScript**. This app helps users manage daily tasks with an intuitive interface, persistent local storage, and interactive features like marking tasks done or deleting them.
 
----
 
 ## ✨ Features
 
@@ -14,7 +13,6 @@ A simple, clean, and fully responsive **To-Do List Web Application** built with 
 - 🎨 **Minimal UI** – Clean and focused design for productivity  
 - 🔄 **Real-time Updates** – See changes instantly as you add, check, or delete items  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -29,13 +27,7 @@ A simple, clean, and fully responsive **To-Do List Web Application** built with 
 - CSS Transitions for smooth animations  
 - Media Queries for full responsiveness  
 
----
 
-## 📸 Screenshots
-
-> *(Add screenshots showing task creation, marking complete, and deletion)*
-
----
 
 ## 🔍 Usage Instructions
 
@@ -45,7 +37,6 @@ A simple, clean, and fully responsive **To-Do List Web Application** built with 
 4. Click the **trash icon** to delete the task  
 5. Tasks stay saved using **local storage** – even after closing the browser  
 
----
 
 ## 🤝 Contributing
 
@@ -77,7 +68,7 @@ You can easily customize the project:
 - 🖼 Replace icons using [Font Awesome](https://fontawesome.com/) or other icon libraries  
 - 🔄 Improve animations or transitions using additional CSS or JS  
 
----
+
 
 ## 🙏 Acknowledgements
 
